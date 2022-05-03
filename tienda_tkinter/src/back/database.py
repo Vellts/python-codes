@@ -1,0 +1,1 @@
+administradores: list[str] = [["admin", "1234"]]
